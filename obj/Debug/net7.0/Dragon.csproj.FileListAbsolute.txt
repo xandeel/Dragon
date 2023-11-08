@@ -1,0 +1,14 @@
+G:\cyber seguridad\Dragon\bin\Debug\net7.0\Dragon.exe
+G:\cyber seguridad\Dragon\bin\Debug\net7.0\Dragon.deps.json
+G:\cyber seguridad\Dragon\bin\Debug\net7.0\Dragon.runtimeconfig.json
+G:\cyber seguridad\Dragon\bin\Debug\net7.0\Dragon.dll
+G:\cyber seguridad\Dragon\bin\Debug\net7.0\Dragon.pdb
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\Dragon.GeneratedMSBuildEditorConfig.editorconfig
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\Dragon.AssemblyInfoInputs.cache
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\Dragon.AssemblyInfo.cs
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\Dragon.csproj.CoreCompileInputs.cache
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\Dragon.dll
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\refint\Dragon.dll
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\Dragon.pdb
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\Dragon.genruntimeconfig.cache
+G:\cyber seguridad\Dragon\obj\Debug\net7.0\ref\Dragon.dll
